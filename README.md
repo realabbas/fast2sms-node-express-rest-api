@@ -1,5 +1,5 @@
 
-# NodeJS ExpressJS Restful API for sending SMS in India using Fast2SMS
+⚡ # NodeJS ExpressJS Restful API for sending SMS in India using Fast2SMS
 
 ## Quick start
 
